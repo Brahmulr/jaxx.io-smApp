@@ -18,7 +18,7 @@
 <ol>
   <li>Access <code>chrome://version/</code> and get your <u>Profile Path</u>, if you use Chrome, it's looklike <code>...\Google\Chrome\User Data\Default\</code> , now you access folder <code>Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code> inside your <u>Profile Path</u>.<br><br>
  <ul>
-   <li><b>Tips:</b>
+   <li><b>Tips <a href="https://i.imgur.com/I8vjR7l.png" tagert="_blank">[?]</a>:</b>
       <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
      <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
       <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
@@ -26,7 +26,7 @@
       </li>
 </ul></li>
   <li>If you installed lastest Jaxx version, that folder is <code>2.4.6.0_0</code>just make a copy of that folder to another location, e.g <code>C:\2.4.6.0_0</code>, we will build the app here.</li>
-  <li>Download <a href="https://github.com/Brahmulr/jaxx.io-smApp/releases/latest">lastest releases</a> library, unzip and move these files to <code>C:\2.4.6.0_0\</code></li>
+  <li>Download <a  tagert="_blank" href="https://github.com/Brahmulr/jaxx.io-smApp/releases/latest">lastest releases</a> library, unzip and move these files to <code>C:\2.4.6.0_0\</code></li>
 </ol>
 
 
@@ -41,7 +41,7 @@ Change `"permissions": [` =>  `"permissions": ["tabs","<all_urls>",`
 
 Change `"background.js",` =>  `"background.js","services.js",`
 
-After edited, `manifest.json` looklike <a href="https://i.imgur.com/lQfFva0.png">this image</a>
+After edited, `manifest.json` looklike <a  tagert="_blank" href="https://i.imgur.com/lQfFva0.png">this image</a>
 
 Save it.
 
@@ -49,7 +49,7 @@ Save it.
 ##### C:\2.4.6.0_0\index.html
 Change `</head>` =>  `<link rel="stylesheet" href="mod_themes.css"></head>`
 
-After edited, `index.html` looklike <a href="https://i.imgur.com/FEpFBhA.png">this image</a>
+After edited, `index.html` looklike <a  tagert="_blank" href="https://i.imgur.com/FEpFBhA.png">this image</a>
 
 Save it.
 
