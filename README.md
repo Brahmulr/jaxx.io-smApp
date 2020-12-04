@@ -19,8 +19,11 @@
   <li>Access <code>chrome://version/</code> and get your <u>Profile Path</u>, if you use Chrome, it's looklike <code>...\Google\Chrome\User Data\Default\</code> , now you access folder <code>Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code> inside your <u>Profile Path</u>.
  <ul>
     <li>CentBrowser can quick access: <code>%AppData%\..\Local\CentBrowser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></li>
+   
     <li>Google Chrome can quick access: <code>%AppData%\..\Local\Google\Chrome\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></li>
-    <li>CocCoc Browser can quick access: <code>%AppData%\..\Local\CocCoc\Browser\User Data\Default\Extensions\</code></li>
+    
+    <li>CocCoc Browser can quick access: <code>%AppData%\..\Local\CocCoc\Browser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></li>
+    
     <li>Edge Browser can quick access: <code>%AppData%\..\Local\Microsoft\Edge\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></li>
 </ul></li>
   <li>If you installed lastest Jaxx version, that folder is <code>2.4.6.0_0</code>just make a copy of that folder to another location, e.g <code>C:\2.4.6.0_0</code>, we will build the app here.</li>
