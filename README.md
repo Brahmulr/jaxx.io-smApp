@@ -47,7 +47,7 @@ After edited, `index.html` looklike <a href="https://i.imgur.com/FEpFBhA.png">th
 
 Save it.
 
-#### You've done! Let install new app.
-
+## You've done! Let install new app.
+### Open chrome, then access `chrome://extensions/` URL
 
 <p align="center"><img src="https://i.imgur.com/bo64nXe.png"></p>
