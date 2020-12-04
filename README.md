@@ -1,7 +1,7 @@
 # For who love jaxx.io
 
 ## Features
-- The Jaxx Liberty for Desktop is more than 100Mb. This library can do it with 4kb, and more better (^_^).
+- The Jaxx Liberty for Desktop is more than 100Mb. This library can do it with **~4KB**... better performance.
 
 ## Important
 - **Backup your wallet, phrase information before doing anything next.**
