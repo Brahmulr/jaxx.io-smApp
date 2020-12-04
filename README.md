@@ -50,7 +50,7 @@ After edited, `index.html` looklike <a href="https://i.imgur.com/FEpFBhA.png">th
 Save it.
 
 ## You've done! Let install new app.
-- If you likes this project, fell free to use, give a star, or donate for me via ethereum : `0x9Fc6c9554B2eC78b55bfAc4A23240318f06614af` ♥️
+- If you likes this project, fell free to use, [give me a star](/stargazers), or donate for me via ethereum : `0x9Fc6c9554B2eC78b55bfAc4A23240318f06614af` ♥️
 ### Open chrome, then access `chrome://extensions/` URL
 
 <p align="center"><img src="https://i.imgur.com/bo64nXe.png"></p>
