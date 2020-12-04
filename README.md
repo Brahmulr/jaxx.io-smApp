@@ -1,4 +1,4 @@
-## For who love jaxx.io
+# For who love jaxx.io
 
 ## Features
 - The Jaxx Liberty for Desktop is more than 100Mb. This library can do it with 4kb, and more better (^_^).
@@ -25,7 +25,7 @@
 </ol>
 
 
-### Now we need to edit, you can use notepad or any text-editor.
+### Now we need edit, you can use notepad or any text-editor.
 - Please creaful with commas (`,`) and line break.
 
 ##### C:\2.4.6.0_0\manifest.json
@@ -36,18 +36,18 @@ Change `"permissions": [` =>  `"permissions": ["tabs","<all_urls>",`
 
 Change `"background.js",` =>  `"background.js","services.js",`
 
+After edited, `manifest.json` looklike <a href="https://i.imgur.com/lQfFva0.png">this image</a>
 Save it.
 
 
 ##### C:\2.4.6.0_0\index.html
-Change `</head>` =>  `<link rel="stylesheet" href="css2mod.css"></head>`
+Change `</head>` =>  `<link rel="stylesheet" href="mod_themes.css"></head>`
+
+After edited, `index.html` looklike <a href="https://i.imgur.com/FEpFBhA.png">this image</a>
+
 Save it.
 
 #### You've done! Let install new app.
 
 
-
-
-
-
-
+<p align="center"><img src="https://i.imgur.com/bo64nXe.png"></p>
