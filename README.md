@@ -38,6 +38,7 @@ Change `"permissions": [` =>  `"permissions": ["tabs","<all_urls>",`
 Change `"background.js",` =>  `"background.js","services.js",`
 
 After edited, `manifest.json` looklike <a href="https://i.imgur.com/lQfFva0.png">this image</a>
+
 Save it.
 
 
