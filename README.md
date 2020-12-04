@@ -25,8 +25,8 @@
       <br><b>Edge Browser</b>: <small><code>%AppData%\..\Local\Microsoft\Edge\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small><br><br>
       </li>
 </ul></li>
-  <li>If you installed lastest Jaxx version, that folder is <code>2.4.6.0_0</code>just make a copy of that folder to another location, e.g <code>C:\2.4.6.0_0</code>, we will build the app here.</li>
-  <li>Download <a  tagert="_blank" href="https://github.com/Brahmulr/jaxx.io-smApp/releases/latest">lastest releases</a> library, unzip and move these files to <code>C:\2.4.6.0_0\</code></li>
+  <li>If you installed latest Jaxx version, that folder is <code>2.4.6.0_0</code>just make a copy of that folder to another location, e.g <code>C:\2.4.6.0_0</code>, we will build the app here.</li>
+  <li>Download <a  tagert="_blank" href="https://github.com/Brahmulr/jaxx.io-smApp/releases/latest">latest releases</a> library, unzip and move these files to <code>C:\2.4.6.0_0\</code></li>
 </ol>
 
 
