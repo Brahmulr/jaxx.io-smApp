@@ -18,7 +18,7 @@
 <ol>
   <li>Access <code>chrome://version/</code> and get your <u>Profile Path</u>, if you use Chrome, it's looklike <code>...\Google\Chrome\User Data\Default\</code> , now you access folder <code>Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code> inside your <u>Profile Path</u>.<br><br>
  <ul>
-   <li><b>Tips <a href="https://i.imgur.com/I8vjR7l.png" tagert="_blank">[?]</a>:</b>
+   <li><b>Tips <a href="https://i.imgur.com/mXkg687.png" tagert="_blank">[?]</a>:</b>
       <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
      <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
       <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
