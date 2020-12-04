@@ -27,7 +27,7 @@
 
 
 ### Now we need edit, you can use notepad or any text-editor.
-- Please creaful with commas (`,`) and line break.
+- Please careful with commas (`,`) and line break.
 
 ##### C:\2.4.6.0_0\manifest.json
 
