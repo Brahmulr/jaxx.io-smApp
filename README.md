@@ -19,10 +19,10 @@
   <li>Access <code>chrome://version/</code> and get your <u>Profile Path</u>, if you use Chrome, it's looklike <code>...\Google\Chrome\User Data\Default\</code> , now you access folder <code>Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code> inside your <u>Profile Path</u>.<br><br>
  <ul>
    <li><b>Tips:</b>
-      <br>1) <b>CentBrowser</b> can quick access: <small><code>%AppData%\..\Local\CentBrowser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
-     <br><br>2) <b>Google Chrome</b> can quick access: <small><code>%AppData%\..\Local\Google\Chrome\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
-      <br><br>3) <b>CocCoc Browser</b> can quick access: <small><code>%AppData%\..\Local\CocCoc\Browser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
-      <br><br>4) <b>Edge Browser</b> can quick access: <small><code>%AppData%\..\Local\Microsoft\Edge\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small><br><br>
+      <br>1) <b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
+     <br><br>2) <b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
+      <br><br>3) <b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small>
+      <br><br>4) <b>Edge Browser</b>: <small><code>%AppData%\..\Local\Microsoft\Edge\User Data\Default\Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code></small><br><br>
       </li>
 </ul></li>
   <li>If you installed lastest Jaxx version, that folder is <code>2.4.6.0_0</code>just make a copy of that folder to another location, e.g <code>C:\2.4.6.0_0</code>, we will build the app here.</li>
