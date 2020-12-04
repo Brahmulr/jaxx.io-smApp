@@ -51,3 +51,7 @@ Save it.
 ### Open chrome, then access `chrome://extensions/` URL
 
 <p align="center"><img src="https://i.imgur.com/bo64nXe.png"></p>
+
+### You can now click on the icon of Jaxx Liberty extension to use, let start to recover that your backed-up's wallet - phrase
+
+<p align="center"><img src="https://i.imgur.com/fnjXzMc.png"></p>
