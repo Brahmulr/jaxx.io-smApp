@@ -79,7 +79,7 @@ ___________________________
 </ul></li>
 </ul>
 
-<h4> After shortcut created, right-click on that shourtcut, choose Run "Minimized" <a href="https://i.imgur.com/mJeHSAm.png"> see img</a></h4>
+<h4> After shortcut created, right-click on that shourtcut > properties> choose Run "Minimized" <a href="https://i.imgur.com/mJeHSAm.png"> see img</a></h4>
 
 #### You can also change icon, the jaxx icon located at <code>C:\2.4.6.0_0\favicon.ico</code> then restart your browser to take effect, type <code>chrome://restart</code> on addresss bar, hit enter and try to runing desktop version ^^~
 
