@@ -64,7 +64,7 @@ Save it.
 <p align="center"><img src="https://i.imgur.com/fnjXzMc.png"></p>
 ___________________________
 
-## Create desktop shotcut (optional)
+## Create desktop shortcut (optional)
 <h4> You must find the id of your jaxx app. Run that app, focus on the Jaxx tab, press F12 on your keybroard, in console, type <code>window.location.host</code> hit enter and copy the id. <a href="https://i.imgur.com/9kQDKEe.png"> see img</a>.<br>The id don't have quotation mark, in my case is <a href="https://i.imgur.com/9kQDKEe.png"> see img</a> <code>blhcioningpnkbaibljikmfbckhldeko</code>.</h4>
 
 <ul>
