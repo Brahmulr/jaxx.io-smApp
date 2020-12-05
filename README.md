@@ -70,14 +70,17 @@ Save it.
   <li>Right click on your desktop, select to create shortcut.<br><br>
  <ul>
    <li><b>Location address of shortcut:</b>
-      <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\Application\chrome_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small>
-     <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\Application\chrome_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small>
-      <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\Application\browser_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small>
-      <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small> or <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br><br>
+      <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\Application\chrome_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br>
+     <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\Application\chrome_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br>
+      <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\Application\browser_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br>
+      <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small> <br><br>or <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br><br>
       </li>
 </ul></li>
 </ol>
 
-Then named that shortcut, and use JAXX icon at <code>C:\2.4.6.0_0\favicon.ico</code> 
+<h5> After shortcut careated, right-click on that shourtcut, choose Run "Minimized" <a href="https://i.imgur.com/mJeHSAm.png"> see img</a> </h5>
+
+##### You can also change icon, the jaxx icon located at <code>C:\2.4.6.0_0\favicon.ico</code>
+
 
 
