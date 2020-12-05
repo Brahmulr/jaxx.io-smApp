@@ -13,7 +13,7 @@
 
 ## Let build it.
 #### (*) You must install the [official Jaxx Liberty extension on chrome webstore](https://chrome.google.com/webstore/detail/jaxx-liberty/cjelfplplebdjjenllpjcblmjkfcffne) first
-##### - If you seen "unzip error" and it can't download able, you can try some tips (use at your own risk): Visit crxdown.com or crxextractor.com, etc. Then paste chrome webstore url to download crx. After download crx, visit crxextractor.com, and upload that crx file to extract and convert .crx to .zip file, just skip step's one, once you've done this.
+##### - If you seen "unzip error" and it can't download able, you can try some tips (use at your own risk): Visit crxdown.com or crxextractor.com, etc. Then paste chrome webstore url to download crx. After download crx, visit [robwu.nl/crxviewer](https://robwu.nl/crxviewer/), and upload that crx file , it's convert .crx to .zip file for download, just skip step's one (in bellow guides), once you've done this.
 ##### - English isn't my first language, im working on improving.... so please excuse any mistakes in this post..
 <ol>
   <li>Access <code>chrome://version/</code> and get your <u>Profile Path</u>, if you use Chrome, it's looklike <code>...\Google\Chrome\User Data\Default\</code> , now you access folder <code>Extensions\cjelfplplebdjjenllpjcblmjkfcffne</code> inside your <u>Profile Path</u>.<br><br>
