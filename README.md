@@ -74,7 +74,7 @@ ___________________________
       <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\Application\chrome_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br>
      <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\Application\chrome_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br>
       <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\Application\browser_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br>
-      <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small> <br><br>or <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br><br>
+      <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small> <br><br>If you have x86 windows, it here: <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br><br>
       </li>
 </ul></li>
 </ul>
