@@ -69,11 +69,11 @@ Save it.
 <ol>
   <li>Right click on your desktop, select to create shortcut.<br><br>
  <ul>
-   <li><b>Location address of shortcut, replace `PLACE_YOUR_EXT` to your app id.</b>
-      <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\Application\chrome_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small><br>
-     <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\Application\chrome_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small><br>
-      <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\Application\browser_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small><br>
-      <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small> <br><br>or <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small><br><br>
+   <li><b>Location address of shortcut, replace <code>YOUR_APP_ID</code> with your app id.</b>
+      <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\Application\chrome_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br>
+     <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\Application\chrome_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br>
+      <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\Application\browser_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br>
+      <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small> <br><br>or <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br><br>
       </li>
 </ul></li>
 </ol>
