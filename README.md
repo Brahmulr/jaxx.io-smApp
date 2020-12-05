@@ -9,7 +9,7 @@
 - I cannot ensure or warrant the security of this scripts, so use at your own risk. I'm not responsible for anything that happens due to you using this script!
 
 
-<p align="center"><img src="https://i.imgur.com/lTrabOV.png"></p>
+<p align="center"><img src="https://i.imgur.com/lTrabOV.png"><img src="https://i.imgur.com/R5MC0vD.png"></p>
 
 ## Let build it.
 #### (*) You must install the [official Jaxx Liberty extension on chrome webstore](https://chrome.google.com/webstore/detail/jaxx-liberty/cjelfplplebdjjenllpjcblmjkfcffne) first
