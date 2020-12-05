@@ -65,7 +65,7 @@ Save it.
 ___________________________
 
 ## Create desktop shotcut (optional)
-<h5> You must find the id of your jaxx app. Run that app, focus on the Jaxx app, press F12 on your keybroard, type `window.location.host` hit enter and copy the id. <a href="https://i.imgur.com/9kQDKEe.png"> see img</a>, the id don't have any quotation mark, in my case is <code>blhcioningpnkbaibljikmfbckhldeko</code>.</h5>
+<h5> You must find the id of your jaxx app. Run that app, focus on the Jaxx app, press F12 on your keybroard, in console tab type <code>window.location.host</code> hit enter and copy the id. <a href="https://i.imgur.com/9kQDKEe.png"> see img</a>, the id don't have quotation mark, in my case is <a href="https://i.imgur.com/9kQDKEe.png"> see img</a> <code>blhcioningpnkbaibljikmfbckhldeko</code>.</h5>
 
 <ol>
   <li>Right click on your desktop, select to create shortcut.<br><br>
