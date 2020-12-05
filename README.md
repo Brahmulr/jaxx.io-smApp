@@ -62,8 +62,9 @@ Save it.
 ### You can now click on the icon of Jaxx Liberty extension to use, let start to recover that your backed-up's wallet - phrase
 
 <p align="center"><img src="https://i.imgur.com/fnjXzMc.png"></p>
+___________________________
 
-## Create desktop shotcut 
+## Create desktop shotcut (optional)
 <h5> You must find the id of your jaxx app. Run that app, focus on the Jaxx app, press F12 on your keybroard, type `window.location.host` hit enter and copy the id. <a href="https://i.imgur.com/9kQDKEe.png"> see img</a>, the id don't have any quotation mark, in my case is <code>blhcioningpnkbaibljikmfbckhldeko</code>.</h5>
 
 <ol>
