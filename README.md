@@ -62,3 +62,22 @@ Save it.
 ### You can now click on the icon of Jaxx Liberty extension to use, let start to recover that your backed-up's wallet - phrase
 
 <p align="center"><img src="https://i.imgur.com/fnjXzMc.png"></p>
+
+## Create desktop shotcut 
+
+
+<ol>
+  <li>Right click on your desktop, select to create shortcut.<br><br>
+ <ul>
+   <li><b>Location address of shortcut:</b>
+      <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\Application\chrome_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small>
+     <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\Application\chrome_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small>
+      <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\Application\browser_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small>
+      <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small> or <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br><br>
+      </li>
+</ul></li>
+</ol>
+
+Then named that shortcut, and use JAXX icon at <code>C:\2.4.6.0_0\favicon.ico</code> 
+
+
