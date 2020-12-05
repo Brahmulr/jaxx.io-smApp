@@ -37,11 +37,11 @@
 
 Change `"default_popup": "index.html"` =>  `"default_popup": "pop.html"`
 
-Change `"permissions": [` =>  `"permissions": ["tabs","<all_urls>",`
+Change `"permissions": [` =>  `"permissions": ["tabs",`
 
 Change `"background.js",` =>  `"background.js","services.js",`
 
-After edited, `manifest.json` looklike <a  tagert="_blank" href="https://i.imgur.com/lQfFva0.png">this image</a>
+After edited, `manifest.json` looklike <a  tagert="_blank" href="https://i.imgur.com/qdgSDRp.png">this image</a>
 
 Save it.
 
