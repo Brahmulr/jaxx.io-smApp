@@ -84,6 +84,9 @@ ___________________________
 #### You can also change icon, the jaxx icon located at <code>C:\2.4.6.0_0\favicon.ico</code> then restart your browser to take effect, type <code>chrome://restart</code> on addresss bar, hit enter and try to runing desktop version ^^~
 
 
+<p align="center"><img src="https://i.imgur.com/ajeQwiB.png"></p>
+
+
 ## END.
 
 
