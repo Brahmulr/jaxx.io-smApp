@@ -64,21 +64,21 @@ Save it.
 <p align="center"><img src="https://i.imgur.com/fnjXzMc.png"></p>
 
 ## Create desktop shotcut 
-
+<h5> You must find the id of your jaxx app. Run that app, focus on the Jaxx app, press F12 on your keybroard, type `window.location.host` hit enter and copy the id. <a href="https://i.imgur.com/9kQDKEe.png"> see img</a>, the id don't have any quotation mark, in my case is <code>blhcioningpnkbaibljikmfbckhldeko</code>.</h5>
 
 <ol>
   <li>Right click on your desktop, select to create shortcut.<br><br>
  <ul>
-   <li><b>Location address of shortcut:</b>
-      <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\Application\chrome_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br>
-     <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\Application\chrome_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br>
-      <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\Application\browser_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br>
-      <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small> <br><br>or <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://blhcioningpnkbaibljikmfbckhldeko/pop.html</code></small><br><br>
+   <li><b>Location address of shortcut, replace `PLACE_YOUR_EXT` to your app id.</b>
+      <br><b>CentBrowser</b>: <small><code>%AppData%\..\Local\CentBrowser\Application\chrome_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small><br>
+     <br><b>Google Chrome</b>: <small><code>%AppData%\..\Local\Google\Chrome\Application\chrome_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small><br>
+      <br><b>CocCoc Browser</b>: <small><code>%AppData%\..\Local\CocCoc\Browser\Application\browser_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small><br>
+      <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small> <br><br>or <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://PLACE_YOUR_EXT/pop.html</code></small><br><br>
       </li>
 </ul></li>
 </ol>
 
-<h5> After shortcut careated, right-click on that shourtcut, choose Run "Minimized" <a href="https://i.imgur.com/mJeHSAm.png"> see img</a>, then restart your browser to take effect, type <code>chrome://restart</code> on addresss bar </h5>
+<h5> After shortcut created, right-click on that shourtcut, choose Run "Minimized" <a href="https://i.imgur.com/mJeHSAm.png"> see img</a>, then restart your browser to take effect, type <code>chrome://restart</code> on addresss bar </h5>
 
 ##### You can also change icon, the jaxx icon located at <code>C:\2.4.6.0_0\favicon.ico</code>
 
