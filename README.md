@@ -65,9 +65,9 @@ Save it.
 ___________________________
 
 ## Create desktop shotcut (optional)
-<h5> You must find the id of your jaxx app. Run that app, focus on the Jaxx app, press F12 on your keybroard, in console tab type <code>window.location.host</code> hit enter and copy the id. <a href="https://i.imgur.com/9kQDKEe.png"> see img</a>, the id don't have quotation mark, in my case is <a href="https://i.imgur.com/9kQDKEe.png"> see img</a> <code>blhcioningpnkbaibljikmfbckhldeko</code>.</h5>
+<h4> You must find the id of your jaxx app. Run that app, focus on the Jaxx app, press F12 on your keybroard, in console tab type <code>window.location.host</code> hit enter and copy the id. <a href="https://i.imgur.com/9kQDKEe.png"> see img</a>, the id don't have quotation mark, in my case is <a href="https://i.imgur.com/9kQDKEe.png"> see img</a> <code>blhcioningpnkbaibljikmfbckhldeko</code>.</h4>
 
-<ol>
+<ul>
   <li>Right click on your desktop, select to create shortcut.<br><br>
  <ul>
    <li><b>Location address of shortcut, replace <code>YOUR_APP_ID</code> with your app id.</b>
@@ -77,11 +77,11 @@ ___________________________
       <br><b>Edge Browser</b>: <small><code>%programfiles(x86)%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small> <br><br>or <small><code>%programfiles%\Microsoft\Edge\Application\msedge_proxy.exe --app=chrome-extension://YOUR_APP_ID/pop.html</code></small><br><br>
       </li>
 </ul></li>
-</ol>
+</ul>
 
-<h5> After shortcut created, right-click on that shourtcut, choose Run "Minimized" <a href="https://i.imgur.com/mJeHSAm.png"> see img</a></h5>
+<h4> After shortcut created, right-click on that shourtcut, choose Run "Minimized" <a href="https://i.imgur.com/mJeHSAm.png"> see img</a></h4>
 
-##### You can also change icon, the jaxx icon located at <code>C:\2.4.6.0_0\favicon.ico</code> then restart your browser to take effect, type <code>chrome://restart</code> on addresss bar, hit enter and try to runing desktop version ^^~
+#### You can also change icon, the jaxx icon located at <code>C:\2.4.6.0_0\favicon.ico</code> then restart your browser to take effect, type <code>chrome://restart</code> on addresss bar, hit enter and try to runing desktop version ^^~
 
 
 ## END.
